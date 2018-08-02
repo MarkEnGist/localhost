@@ -1,0 +1,43 @@
+.dumper {
+    position: absolute;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-width: 100%;
+    border: 7px ridge #3D3D3D;
+}
+
+.in_dumper {
+    width: 100%;
+    height: 100%;
+    background-color: #212121 !important;
+    font-size: 20px;
+    font-style: italic;
+    color: #8C949B;
+}
+
+.dumper_array_name {
+    color: #A42F2F;
+}
+
+.dumper_numbers {
+    color: #D26747;
+}
+
+.dumper_pockets {
+    color: #63B7D9;
+}
+
+.dumper_square_brackets {
+    color: #63B7D9;
+}
+
+.dumper_quotes {
+    color: #63B7D9;
+}
+
+.dumper_value_text {
+    color: #8BB055;
+}
