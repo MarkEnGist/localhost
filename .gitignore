@@ -2,3 +2,4 @@ app/libs
 node_modules
 app/file.fufas
 .idea
+erro-rs.log
