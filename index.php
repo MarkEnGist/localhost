@@ -13,7 +13,7 @@ ini_set("error_reporting", "E_ALL~E_NOTICE");
     <script type="text/javascript" src="app/_js/libs.min.js"></script>
 <body>
 <?php
-echo "Second Master"
+echo "First Master"
 ?>
 </body>
 </html>
