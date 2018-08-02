@@ -1,5 +1,6 @@
 app/libs
 node_modules
-app/file.fufas
+app/fonts
+app/img
 .idea
 erro-rs.log

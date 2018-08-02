@@ -2,7 +2,7 @@
 //Автоподключение классов
 require_once "app/_php/autoload.php";
 require_once "app/libs/dumper.php";
-
+ini_set("error_reporting", "E_ALL~E_NOTICE");
 ?>
 <!DOCTYPE html>
 <html lang="ru">
@@ -13,7 +13,7 @@ require_once "app/libs/dumper.php";
     <script type="text/javascript" src="app/_js/libs.min.js"></script>
 <body>
 <?php
-
+echo "something";
 ?>
 </body>
 </html>
