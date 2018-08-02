@@ -1,6 +1,9 @@
-app/libs
-node_modules
-app/fonts
-app/img
-.idea
-erro-rs.log
+/.idea/
+/app/libs/
+/node_modules/
+/erro-rs.log
+/app/_js/bootstrap.min.js
+/app/_css/bootstrap.min.css
+/app/_css/dumper.min.css
+/app/_css/libs.min.css
+/app/_css/main.min.css
