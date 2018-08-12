@@ -1,19 +1,20 @@
 <?php
-//Автоподключение классов
-require_once "app/_php/autoload.php";
-require_once "app/libs/dumper.php";
-ini_set("error_reporting", "E_ALL~E_NOTICE");
+/**
+ * Created by PhpStorm.
+ * User: Матвей
+ * Date: 12.08.2018
+ * Time: 23:01
+ */
+require "app/_php/autoload.php";
+ini_set("error_reporting", "E_ALL");
 ?>
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
-    <link rel="stylesheet" href="app/_css/libs.min.css">
-    <script type="text/javascript" src="app/_js/libs.min.js"></script>
+    <title>PHP7</title>
+</head>
 <body>
-<?php
 
-?>
 </body>
 </html>
