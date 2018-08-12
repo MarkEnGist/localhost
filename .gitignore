@@ -1,5 +1,4 @@
 /.idea/
-/app/libs/
 /node_modules/
 /erro-rs.log
 /app/_js/bootstrap.min.js

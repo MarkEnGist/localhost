@@ -1,5 +1,8 @@
 <?php
-function my_autoload($classname)
+/**
+ * @param string $classname
+ */
+function my_autoload(string $classname)
 {
     require_once(__DIR__ . "\\$classname.php");
 }
